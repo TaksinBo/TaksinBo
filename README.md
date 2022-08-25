@@ -58,6 +58,4 @@
 
 ---
 
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
-
-Last Edited on: 08/08/2022
+Medium : [https://medium.com/@taksinborikappakun](https://medium.com/@taksinborikappakun)
