@@ -11,8 +11,7 @@
 
 ### Certificate
 
-
-- [EC-Council Certified Security Specialist (ECSS)](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=BM61hlkI3mVffx36jda5wlfV0OK/3vk10SP0KKByn7g=)
+- <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=BM61hlkI3mVffx36jda5wlfV0OK/3vk10SP0KKByn7g=" target="blank">EC-Council Certified Security Specialist (ECSS)</a>
 
 
 ---
