@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://github.com/TaksinBo" target="blank"> Taksin Borikappakun</a></h1>
-<h3 align="center">Cyber Security & Network Engineer &#127470;&#127475</h3>
+<h3 align="center">Cyber Security & Network Engineer 🇹🇭</h3>
 
 
 <a target="_blank" align="center">
