@@ -7,7 +7,7 @@
 
 <br>
 
-- 🥱 I’m currently working in <a href="https://www.bangkokbank.com/" target="blank">BangkokBank PCL.</a>
+- 🥱 I’m currently working in <a href="https://www.bangkokbank.com/" target="blank">BangkokBank PCL. [SOC]</a>
 - 🎓 I graduated from the University of <a href="http://www.it.mut.ac.th/" target="blank">MUT in NETS</a>
 
 ### Certificate
