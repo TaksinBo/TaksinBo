@@ -1,13 +1,13 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://github.com/TaksinBo" target="blank"> Taksin Borikappakun</a></h1>
-<h3 align="center">Network Engineer & Security🇹🇭</h3>
+<h3 align="center">Network Engineering and Security🇹🇭</h3>
 
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="300" alt="GIF" src="https://media.giphy.com/media/UuTIijN6ih5kzV9nNI/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://www.bangkokbank.com/" target="blank">ฺBangkokBank PCL.</a>
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+- 🔭 I’m currently working in <a href="https://www.bangkokbank.com/" target="blank">BangkokBank PCL.</a>
+- 🔭 I graduated from the University of <a href="http://www.it.mut.ac.th/" target="blank">Mahanakorn University of technology in Network Engineering and Security</a>
 
 ### Blogs posts
 
