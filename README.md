@@ -14,7 +14,8 @@
 - <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=BM61hlkI3mVffx36jda5wlfV0OK/3vk10SP0KKByn7g=" target="blank">EC-Council Certified Security Specialist (ECSS)</a>
 
 ### Other
-- <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=BM61hlkI3mVffx36jda5wlfV0OK/3vk10SP0KKByn7g=" target="blank">TB-CERT Cyber Combat 2021 | Blue Team @ 2nd Runner Up : Team Sentinel</a>
+- <a href="http://www.thailandindustry.com/indust_newweb/news_preview.php?cid=22325" target="blank">Cabling Contest 2016 @ 2nd Runner Up.</a>
+- <a href="https://www.facebook.com/TBCERT.Official/posts/pfbid027XCPMDbiZMGP4vFJJhNXasXrhRKMAV1cYi63uYkvw2VRUqwTAMLX3cMQsf2rw7Wzl" target="blank">TB-CERT Cyber Combat 2021 | Blue Team @ 2nd Runner Up. : Team Sentinel</a>
 ---
 
 Medium : [https://medium.com/@taksinborikappakun](https://medium.com/@taksinborikappakun)
