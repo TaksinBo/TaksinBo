@@ -13,6 +13,7 @@
 ### Certificate
 
 - <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=BM61hlkI3mVffx36jda5wlfV0OK/3vk10SP0KKByn7g=" target="blank">EC-Council Certified Security Specialist (ECSS)</a>
+- <a href="#" target="blank">CompTIA Security+</a>
 
 ### Competition
 - <a href="http://www.thailandindustry.com/indust_newweb/news_preview.php?cid=22325" target="blank">Interlink Cabling Contest 2016 @ 2nd Runner Up.</a>
