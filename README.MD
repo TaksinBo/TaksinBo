@@ -16,8 +16,9 @@
 - <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=BM61hlkI3mVffx36jda5wlfV0OK/3vk10SP0KKByn7g=" target="blank">EC-Council Certified Security Specialist (ECSS)</a>
 
 ### Competition
-- <a href="http://www.thailandindustry.com/indust_newweb/news_preview.php?cid=22325" target="blank">Interlink Cabling Contest 2016 @ 2nd Runner Up.</a>
 - <a href="https://www.facebook.com/TBCERT.Official/posts/pfbid027XCPMDbiZMGP4vFJJhNXasXrhRKMAV1cYi63uYkvw2VRUqwTAMLX3cMQsf2rw7Wzl" target="blank">TB-CERT Cyber Combat 2021 | Blue Team @ 2nd Runner Up. : Team Sentinel</a>
+- <a href="http://www.thailandindustry.com/indust_newweb/news_preview.php?cid=22325" target="blank">Interlink Cabling Contest 2016 @ 2nd Runner Up.</a>
+
 
 ### Other
 - <a href="https://web.facebook.com/media/set/?set=a.1283868098478793&type=3&_rdc=1&_rdr" target="blank">Cyber in Action 2  | Describe : HTTPS Decrypted ! </a>
