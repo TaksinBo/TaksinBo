@@ -2,7 +2,7 @@
 <h3 align="center">Network Engineering and Security 🇹🇭</h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="300" alt="GIF" src="https://media.giphy.com/media/UuTIijN6ih5kzV9nNI/giphy.gif">
+  <img align="right" top="500" height="250" width="250" alt="GIF" src="https://media.giphy.com/media/UuTIijN6ih5kzV9nNI/giphy.gif">
 </a>
 
 <br>
