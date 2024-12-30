@@ -33,3 +33,6 @@
 ---
 
 Medium : [https://medium.com/@taksinborikappakun](https://medium.com/@taksinborikappakun)
+
+<div class="badge-base LI-profile-badge" data-locale="th_TH" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="taksin-borikappakun" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://th.linkedin.com/in/taksin-borikappakun?trk=profile-badge">Taksin Borikappakun</a></div>
+              
