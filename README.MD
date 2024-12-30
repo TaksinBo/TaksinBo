@@ -5,7 +5,7 @@
   <img align="right" top="500" height="250" width="250" alt="GIF" src="https://media.giphy.com/media/UuTIijN6ih5kzV9nNI/giphy.gif">
 </a>
 
-<br><br>
+<br>
 
 - 💻 I’m currently working in <a href="https://www.bangkokbank.com/" target="blank">BangkokBank PCL.</a> [Security Engineer]
     - <span> 2021-2023 : Lv1. Security Operation Center Analyst</span>
