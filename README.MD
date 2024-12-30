@@ -17,7 +17,7 @@
 - <a href="https://www.credly.com/badges/aeaa5b23-86a3-4e91-80de-1f30512e59f1/public_url" target="blank">CompTIA Security+</a>
 - <a href="https://www.credly.com/badges/b5290366-c4af-4d7e-b43b-34ac89a27233/public_url" target="blank">CompTIA Pentest+</a>
 - <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=BM61hlkI3mVffx36jda5wlfV0OK/3vk10SP0KKByn7g=" target="blank">EC-Council Certified Security Specialist (ECSS)</a>
-- <a href="https://www.credly.com/badges/d3c76e1e-1882-4347-a76a-d980ff8edcb1/public_url" target="blank">CompTIA CNVP (Stackable)</a>
+- <a href="https://www.credly.com/badges/d3c76e1e-1882-4347-a76a-d980ff8edcb1/public_url" target="blank">CompTIA Network Vulnerability Assessment Professional – CNVP</a>
 
 ### Competition
 - <a href="https://www.facebook.com/share/p/dw4535LBxmbWV8na/" target="blank">TB-CERT Cyber Combat 2024 | CTF @ 6th : Team Second2None</a>
@@ -33,6 +33,6 @@
 ---
 
 Medium : [https://medium.com/@taksinborikappakun](https://medium.com/@taksinborikappakun)
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="th_TH" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="taksin-borikappakun" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://th.linkedin.com/in/taksin-borikappakun?trk=profile-badge">Taksin Borikappakun</a></div>
+Linkedin : <a class="badge-base__link LI-simple-link" href="https://th.linkedin.com/in/taksin-borikappakun?trk=profile-badge">Taksin Borikappakun</a>
+
               
