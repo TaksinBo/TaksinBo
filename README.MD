@@ -16,8 +16,11 @@
 
 - <a href="https://www.credly.com/badges/aeaa5b23-86a3-4e91-80de-1f30512e59f1/public_url" target="blank">CompTIA Security+</a>
 - <a href="https://www.credly.com/badges/b5290366-c4af-4d7e-b43b-34ac89a27233/public_url" target="blank">CompTIA Pentest+</a>
+- <a href="https://www.credly.com/badges/6257b198-5e4c-4937-b1b0-2a661a1d9750/public_url" target="blank">CompTIA CySA+</a>
 - <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=BM61hlkI3mVffx36jda5wlfV0OK/3vk10SP0KKByn7g=" target="blank">EC-Council Certified Security Specialist (ECSS)</a>
 - <a href="https://www.credly.com/badges/d3c76e1e-1882-4347-a76a-d980ff8edcb1/public_url" target="blank">CompTIA Network Vulnerability Assessment Professional – CNVP</a>
+- <a href="https://www.credly.com/badges/8e5c145e-8138-4cf6-a0d1-1a0b69bcd2a2/public_url" target="blank">CompTIA Network Vulnerability Assessment Professional – CNSP</a>
+- <a href="https://www.credly.com/badges/11238307-eadb-4ed2-8a15-4e32ee747a3b/public_url" target="blank">CompTIA Network Vulnerability Assessment Professional – CSAP</a>
 
 ### Competition
 - <a href="https://www.facebook.com/share/p/dw4535LBxmbWV8na/" target="blank">TB-CERT Cyber Combat 2024 | CTF @ 6th : Team Second2None</a>
