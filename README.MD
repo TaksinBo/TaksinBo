@@ -8,8 +8,8 @@
 <br>
 
 - 💻 I’m currently working in <a href="https://www.bangkokbank.com/" target="blank">BangkokBank PCL.</a> [Security Engineer]
-    - <span> 2021-2023 : Lv1. Security Operation Center Analyst</span>
     - <span> 2024 : Security Operation Center Engineer </span>
+    - <span> 2021-2023 : Lv1. Security Operation Center Analyst</span>
 - 🎓 I graduated from the University of <a href="http://www.it.mut.ac.th/" target="blank">MUT in NETS</a>  ... First-Class honors.
 
 ### Certificate
