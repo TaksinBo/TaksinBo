@@ -19,6 +19,7 @@
 - <a href="https://www.credly.com/badges/6257b198-5e4c-4937-b1b0-2a661a1d9750/public_url" target="blank">CompTIA CySA+</a>
 - <a href="https://www.credly.com/badges/b5290366-c4af-4d7e-b43b-34ac89a27233/public_url" target="blank">CompTIA Pentest+</a>
 - <a href="https://www.credly.com/badges/aeaa5b23-86a3-4e91-80de-1f30512e59f1/public_url" target="blank">CompTIA Security+</a>
+- <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=rXxwjRwdOTyhHTS+OQTmPwYWlAifvdot8mTlhfNeWyc=" target="blank">EC-Council Certified Ethical Hacker (CEH)</a>
 - <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=BM61hlkI3mVffx36jda5wlfV0OK/3vk10SP0KKByn7g=" target="blank">EC-Council Certified Security Specialist (ECSS)</a>
 
 
