@@ -21,7 +21,7 @@
 - <a href="https://www.credly.com/badges/aeaa5b23-86a3-4e91-80de-1f30512e59f1/public_url" target="blank">CompTIA Security+</a>
 - <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=rXxwjRwdOTyhHTS+OQTmPwYWlAifvdot8mTlhfNeWyc=" target="blank">EC-Council Certified Ethical Hacker (CEH)</a>
 - <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=BM61hlkI3mVffx36jda5wlfV0OK/3vk10SP0KKByn7g=" target="blank">EC-Council Certified Security Specialist (ECSS)</a>
-- <a href="#" target="blank">TippingPoint 1.0 Certified Professional</a>
+- <a href="#" target="blank">TrendMicro TippingPoint 1.0 Certified Professional</a>
 
 
 
