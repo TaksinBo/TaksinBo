@@ -26,6 +26,7 @@
 
 
 ### Competition
+- <a href="https://www.facebook.com/share/1bFb7wtqSK/" target="blank">TB-CERT Cyber Combat 2026 | Attack & Defense @ - : Team Let AI Do</a>
 - <a href="https://www.facebook.com/share/p/dw4535LBxmbWV8na/" target="blank">TB-CERT Cyber Combat 2024 | CTF @ 6th : Team Second2None</a>
 - <a href="https://www.facebook.com/TBCERT.Official/videos/1334215764141100/?mibextid=YxdKMJ" target="blank">TB-CERT Cyber Combat 2023 | CTF @ Qualifier Round  : Team KrapaoKai.exe</a>
 - <a href="https://www.facebook.com/TBCERT.Official/posts/pfbid0ty13eUFdcSyDWvexHGDwkP9zsZTTg5YyD5cvEE4ASRUHXPaqRmZRZ7KGm4REmEJfl" target="blank">TB-CERT Cyber Combat 2022 | Attack & Defense @ 1st Runner Up. : Team Second2None</a>
